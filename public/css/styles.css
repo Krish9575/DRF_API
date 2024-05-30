@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana;
+  }
+  
+  .site-view {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  img.responsive {
+    width: 100%;
+    height: auto;
+  }
+  
+  img.centered {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f1f1f1;
+  }
+  
